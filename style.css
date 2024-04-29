@@ -1,0 +1,20 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left {
+  width: 15%;
+  background-color: white; /* Adjust the width as needed */
+}
+
+.right {
+  width: 80%; /* Adjust the width as needed */
+}
+.fullColorChange {
+  padding: 10px;
+}
+.colorPickerFull {
+  padding: 1px;
+  margin-left: 40%;
+}
